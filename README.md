@@ -27,6 +27,7 @@ To use the code in this repository, simply clone the repository to your local ma
 
 ```bash
 git clone https://github.com/Adityas266/Python.git
+```
 ![image](https://github.com/Adityas266/Python/assets/108875499/aff9c00e-f74f-4dfd-9741-d9b810d27409)
 ![image](https://github.com/Adityas266/Python/assets/108875499/73fafb05-2071-433d-b867-7bfffb123fa2)
 ![image](https://github.com/Adityas266/Python/assets/108875499/1ebc4f26-c275-455f-b0d5-4f279634634c)
